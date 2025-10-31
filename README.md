@@ -1,3 +1,12 @@
+## 🚀 Quick Start
+
+1. Open `index.html` in your web browser
+2. Log in to one of the user types (temporary password will be needed in the future)
+3. Send or answer a question depending on the user type
+
+
+## 📝 Project Background
+
 This project is a prototype for me to practice coding. It is built on an idea that I have, but built at the smallest level I can build it.
 
 The smallest level had 3 users types.
@@ -14,3 +23,4 @@ Once Person A has both answers, they will generate a discussion question based o
 Then the couple will be able to talk about that question and understand each other better.
 
 If you're looking for the bigger story of how the full app would work, reach out to designertarryn@gmail.com
+
